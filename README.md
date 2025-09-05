@@ -19,7 +19,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Dataset: Historical Diwali sales records (CSV format)
 
-# insights and outcomes
+# Insights and Outcomes
 
 -Women contributed higher sales than men across most product categories.
 
