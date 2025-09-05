@@ -11,3 +11,20 @@ Exploratory Data Analysis (EDA): Uncovered consumer behavior patterns, seasonal 
 Data Visualization: Designed clear, insightful visualizations with Matplotlib and Seaborn to communicate key trends.
 
 Actionable Insights: Identified high-impact customer segments and product trends to support marketing strategies and business growth.
+
+# Tech Stack
+Languages/Tools: Python, Jupyter Notebook
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Dataset: Historical Diwali sales records (CSV format)
+
+# insights and outcomes
+
+-Women contributed higher sales than men across most product categories.
+
+-Married customers showed higher spending compared to unmarried.
+
+-Top-selling categories included Food, Clothing, and Electronics.
+
+-Tier 1 cities generated maximum revenue during the festive season.
